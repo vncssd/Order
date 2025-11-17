@@ -33,7 +33,7 @@ Certifique-se de ter o **Java Development Kit (JDK)** instalado em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK_DO_SEU_REPOSITORIO]
+    git clone [https://github.com/vncssd/Order.git]
     cd [pasta-do-projeto]
     ```
 
